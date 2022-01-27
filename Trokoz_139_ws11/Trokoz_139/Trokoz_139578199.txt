@@ -1,0 +1,37 @@
+/********************************************** 
+Workshop # 11
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		20-04-2021  
+**********************************************/
+
+Learning concepts in this workshop
+
+In workshop 11, I learned how to implement Cloneable and Comparable Interfaces. Therefore, I learned how to work with time in Java. 
+Both tasks were challenging for me and it took days to figure out logic and realize the program idea.
+Also, I honed my programming skills with basic Java techniques - creating arrays, classes, methods,  and processing user's input.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+4. Testing the program
+
+Task 1 and Task 2:
+Programs offer the user to input data. Once the user input data according to the instruction, the programs display the processing results. 
+
+(Screenshots are in the file "Trokoz_139578199.docx")

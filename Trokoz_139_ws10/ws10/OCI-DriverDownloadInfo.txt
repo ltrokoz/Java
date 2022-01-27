@@ -1,0 +1,18 @@
+ JDBC OCI Driver Download from Oracle
+
+***********************************************
+Here is the link:
+https://www.oracle.com/database/technologies/instant-client.html
+https://www.oracle.com/database/technologies/instant-client/downloads.html
+
+ 
+
+- Unzipped the file to a directory and add that path to the windows path environment variable.
+
+Note: Below is the OCI Driver URL to add to your code.
+
+URL=jdbc:oracle:oci:@//myoracle12c.senecacollege.ca/oracle12c
+
+Oracle 12c connection information:
+server: myoracle12c.senecacollege.ca
+database: oracle12c

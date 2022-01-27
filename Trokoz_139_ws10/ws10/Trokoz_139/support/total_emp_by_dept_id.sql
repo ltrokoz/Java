@@ -1,0 +1,5 @@
+CREATE OR REPLACE PROCEDURE total_emp_by_dept_id (dept_id IN EMPLOYEES.DEPARTMENT_ID%TYPE, emp_num OUT NUMBER) IS BEGIN
+SELECT COUNT(*) INTO emp_num
+FROM EMPLOYEES
+WHERE DEPARTMENT_ID = dept_id;
+END total_emp_by_dept_id;

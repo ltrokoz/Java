@@ -1,0 +1,37 @@
+/********************************************** 
+Workshop # 10
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		18-04-2021  
+**********************************************/
+
+Learning concepts in this workshop
+
+In workshop 10, I learned how to connect to the Oracle Database and run the SQL query in the Java program. I created a PL/SQL stored procedure "total_emp_by_dept_id" (that is inside the "support" folder), run it in The Oracle Database and then my program started to work. All Database credentials were moved to the "db.properties" that is a convenient way to run programs for the users, credentials can be changed only in this file. This workshop reminded me of the assignments from the previous Database courses - DBS211 and DBS311 where in the Visual Studio I created C++ program that connected with Oracle Database and ran queries. As in the previous assignments I had met with the issue to connect to the databases and it tooks hours for fixing it. Generally, this workshop is interesting and made me more confident in part of making a program in Java that connects to the Oracle Databases.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+4. Testing the program
+
+For testing the program "ShowEmpInfoByID.java" just press the green sign on the top right screen side OR use shortkeys "Shift + F10" and the program displays the solution. 
+
+For testing the program "ShowTotalEmpByDeptID.java" run query from "total_emp_by_dept_id.sql" (that is inside "support" folder) in the Oracle SQL, then in the IntelliJ IDEA press green sign on the top right screen side OR use shortkeys "Shift + F10" and the program displays solution.
+
+
+(Screenshots are in the file "Trokoz_139578199.docx")
