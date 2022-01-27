@@ -1,0 +1,39 @@
+/********************************************** 
+Workshop # 9
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		11-04-2021  
+**********************************************/
+
+Learning concepts in this workshop
+
+In workshop 9, I learned how the socket programming and Java networking works in case the establishing connection between two clients with a server. 
+Also, I continue to hone my programming skills and practice more to solve Java tasks.
+This task was challenging for me in case how Socket works and how to implement Java networking in a task solution. The switching to a completely new scene after the client enter own name was complicated as well. In general, I found this task more complicated and it took time for searching and understanding how it works.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+
+4. Testing the program
+
+With running Server.java program displays server window where will be reflected all messages between clients and information about their login.
+After running CLient.java and Testing.java will be displayed two windows for clients login where they put their names and press submit button. Then, each client has its own chat window that reflects all that client sent to another client. 
+
+(Screenshots are in the file "Trokoz_139578199.docx")

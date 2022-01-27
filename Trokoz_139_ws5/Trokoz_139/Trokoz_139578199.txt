@@ -1,0 +1,43 @@
+/********************************************** 
+Workshop # 5
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		16-03-2021  
+**********************************************/
+
+
+Learning concepts in this workshop
+
+In workshop 5, I continue to practice and learn how to interact with txt files - how to read files and how to write into files. Also, I learned how to create GUI applications and use RandomAccessFiles. 
+As this workshop the challenging part for me was JavaFX installation. I was struggling for several days with it. The next challenge was to create a fine GUI for user input and make it working.
+Overall, I have an opportunity to hone my programming skills and inrich with experience to solve new tasks.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+
+4. Testing the program
+
+Program displays a new window on the user screen where it offers to input First and Last names, City, Postal Code and select the Province. Then the user presses "Add" button and .txt file will be created (if it does not exist). Then the user will add some number of contacts in the address book and after that the user can look at "first", "next", "previous'', "last" contacts in the address book. Also, users can "update" existing contacts and "add" new contacts if it is necessary.
+
+(Screenshots are in the file "Trokoz_139578199.docx")
+
+
+
+

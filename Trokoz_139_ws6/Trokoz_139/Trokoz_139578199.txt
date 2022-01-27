@@ -1,0 +1,46 @@
+/********************************************** 
+Workshop # 6
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		20-03-2021  
+**********************************************/
+
+
+Learning concepts in this workshop
+
+In workshop 6, I continue to hone my programming skills and learn and practice more how to interact with txt files - how to find the asked file from the user input, how to find the range of names and display this range in the result window. This first task gave me the opportunity to train in creation of the GUI applications in JavaFX as well. This task was challenging for me in case the switching to a completely new scene when a query execution button is pressed. In the second task I learned how to code lambda expressions and how it works. I found this task more complicated and it took time for searching and understanding how it works.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+
+4. Testing the program
+
+Task 1:
+(The JavaFX library already was added to the project "ws6", but the path to JavaFX should be checked in case it is still the right path. I created my project on Desktop and worked on it, but after copying the project to the folder that will be submitted it stopped running because for some reason the path to JavaFX library was changed. From the main menu, select File then Project Structure. Under project Settings on the left side click in the "Libraries'' and check if the path is correct. My machine path is "C:\Program Files\Jva\javafx-sdk-16\lib". Click "Apply" button and then "OK". I used this instruction for setting JavaFX for IntelliJ IDEA - https://www.jetbrains.com/help/idea/javafx.html#add-javafx-lib).
+ 
+Program displays a new window on the user screen where it offers input Year, Gender and Name. Then the user presses the "Submit Query" button. Then the program will display another window with a result about this name ranking in the year that was entered by the user. Also, in the result window the user is asked to search another name, and if the user presses the "Yes" button next Year, gender and Name will be entered by the user. If the user presses the "No" button, the program will finish. 
+
+Task 2:
+Program offered to users for entering the number of arrays. The user enters number presses enter and enter next number, when user will finish entering numbers it should be entered zero and pressed enter.
+Then the program will display the array of entered numbers and the maximum, minimum, average and sum of the values. 
+The next step is the offering user to enter any number from this array and it will be counted how many times this value was entered. Program execution will finish with the words "Goodbye".
+
+
+(Screenshots are in the file "Trokoz_139578199.docx")

@@ -1,0 +1,36 @@
+/********************************************** 
+Workshop # 8
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		05-04-2021  
+**********************************************/
+
+Learning concepts in this workshop
+
+In workshop 8, I learned how to create thread from another thread and this part was the most challengeable for me. Also, I learned about parallel and sequential methods and how to record execution time for the matrix addition task.
+Furthermore, I honed my programming skills and got experience with solving Java tasks.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+4. Testing the program
+
+Task 1 and Task 2:
+For testing the program (task1 or task2) just press green sign on the top right screen side OR use shortkeys "Shift + F10" and the program displays solution. 
+
+(Screenshots are in the file "Trokoz_139578199.docx")

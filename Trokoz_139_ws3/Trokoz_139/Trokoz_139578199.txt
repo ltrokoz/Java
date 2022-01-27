@@ -1,0 +1,42 @@
+
+/********************************************** 
+Workshop # 3
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		21-02-2021  
+**********************************************/
+
+
+Learning concepts in this workshop
+
+In workshop 3, I learned how to code abstract classes and interfaces. This work gave me the opportunity to know more about overload functions as well. Also, I learned how to implement the math calculation in Java and how to write testing programs. Besides it, I honed my programming skills and found how user friendly Java is. As Java is a new language for me I find it understandable and not tricky that makes me happy and encouraged to learn more.
+I found a challenging coding exception that took a while to figure it out. 
+Altogether, I found this workshop as interesting and useful.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+
+4. Testing the program
+
+Task 1. Run "TestClass1.java". Once the program offers to enter three triangle sides, the user inputs it and press enter. Then, the program offers to enter triangle colour. After entering a colour, the user press enter and the program offers to enter true or false for "is triangle filled". Once user inputs all information and presses enter the program displays the triangle object with all input data and calculated triangle perimeter and area.
+
+Task 2. The test program already includes sides for right and illegal triangles. For testing this program, users just run "TestClass2.java". The program displays calculated area and radius for the right triangle and displays the illegal triangle and the error message.
+
+(Screenshots are in the file "Trokoz_139578199.docx")

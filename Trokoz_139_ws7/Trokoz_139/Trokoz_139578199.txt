@@ -1,0 +1,38 @@
+/********************************************** 
+Workshop # 7
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		27-03-2021  
+**********************************************/
+
+Learning concepts in this workshop
+
+In workshop 7, I learned how to code an application that works with two lists of arrays and find duplication in those lists. This part was most challenging for me and it took some time to figure it out. Therefore, I learned how to store information in a map and how to implement it in a program. Also, I honed my programming skills with basic Java techniques - creating classes, methods, arrays, input and output information from files.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+4. Testing the program
+
+Task 1:
+Program offers to enter the file name and as soon as the user enters the file name, the program displays the total number of names that exist in this file for both genders and displays the list of those names. Then the program displays names for boy and girl lists sorted without duplicates. 
+
+Task 2:
+Program offers to enter the country name and as soon as the user enters it, the program displays the capital of this country. If a user enters the wrong country name the program displays an error message.
+
+(Screenshots are in the file "Trokoz_139578199.docx")

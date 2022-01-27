@@ -1,0 +1,48 @@
+/********************************************** 
+Workshop # 4
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		27-02-2021  
+**********************************************/
+
+
+Learning concepts in this workshop
+
+In workshop 4, I learned how to interact with txt files - how to read files and how to write into files. Also, I learned more about arrays in case copy file content in the array.
+As the most programming task the challenging part is logic solving - find how the program should work. In the first task I stuck with loops in the part where the user repeated input already guessing character and the same with wrong input. In the result I found out where I did wrong and fixed it, but the debugging part often exhausted the challenge for me.
+Overall, I have an opportunity to hone my programming skills and inrich with experience to solve new tasks.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+
+4. Testing the program
+
+Task 1:
+Once the program displays a hidden word and offers to put a character, the user inputs the letter and if this letter does not exist the program displays an error message and offers to try again.
+If the user's input is correct, the program offers to continue playing. After guessing the whole word the program will display this word and number wrong attempts. Then the program offers the user to add a new word to the file and then the user can continue the game or finish.
+
+Task 2:
+Program offers to enter the file name and as soon as the user enters the file name, the program displays how many lower and upper case characters in this file exist.
+
+(Screenshots are in the file "Trokoz_139578199.docx")
+
+
+
+

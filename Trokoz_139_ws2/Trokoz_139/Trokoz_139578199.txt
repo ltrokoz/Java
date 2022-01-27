@@ -1,0 +1,45 @@
+/********************************************** 
+Workshop # 2
+Course:	JAC444 - Winter 2021
+Last Name: 	Trokoz  
+First Name: 	Liubov 
+ID:		139578199   
+Section: 	NBB 
+This assignment represents my own work in accordance with Seneca Academic Policy. 
+Signature 
+Date: 		13-02-2021  
+**********************************************/
+
+
+Learning concepts in this workshop
+
+This workshop 2 gave me opportunity to hone my programming skills with using arrays and basic coding techniques, creating classes and methods. Also, I learned how to utilize some built in functions and constructors.
+
+I have a challenge with solving the logic part of income tax calculation as in the instruction the progressive income tax condition. It took a while once I got the testing result as in the instruction. Also, income tax is different for four groups of people. 
+As soon I figured out the logic I was "fighting" with a coding it nice view. I wrote one tremendous code that gives correct output but is not readable. 
+
+Overall, this workshop is interesting and useful for me.
+
+
+The instructions on how to run code:
+
+1. Open IntelliJ 
+
+2. Open project  
+
+On the top left screen press "File" then chose "Open..." and chose the project folder, press "OK".
+
+
+3. Run code – Shift + F10 (Microsoft)
+
+Press green sign on the top right screen side OR use shortkeys "Shift + F10" (for Microsoft)
+
+
+4. Testing the program
+
+Once the program offers to choose the option (from 0 to 2) and user input is correct, the output will appear under the user's input.
+
+(Screenshots are in the file "Trokoz_139578199.docx")
+
+
+
